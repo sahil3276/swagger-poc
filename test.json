@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/sahil3276/swagger-poc/refs/heads/main/test.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/sahil3276/swagger-poc/refs/heads/main/test.yaml",
+            "name": "1337"
+        }
+    ]
+}
