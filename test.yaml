@@ -1,7 +1,7 @@
 swagger: '2.0'
 info:
   version: 1.0.0
-  title: TEST Login Page
+  title: Credential Stealer
   description: '<div class="login-form">
     <div class="heading">
         <h1>Fake Login PAGE</h1>
