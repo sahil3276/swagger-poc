@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   version: 1.0.0
   title: Alert Test
-  description: '<img src=x onerror=alert(1)>'
+  description: '<a href="javascript:alert(1)">Click me</a>'
 paths:
   /:
     post:
