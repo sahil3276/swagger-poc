@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   version: 1.0.0
   title: Alert Test
-  description: '<script>alert("Swagger XSS Triggered")</script>'
+  description: '<img src=x onerror=alert(1)>'
 paths:
   /:
     post:
