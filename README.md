@@ -1,0 +1,1 @@
+https://gist.githubusercontent.com/AMontesG/c89104d46f2bebc2a31795cc5c24c9b0/raw/a85952ddf7f9dfa921c3256d91edb5dbb7ee09b2/exploit.yaml
